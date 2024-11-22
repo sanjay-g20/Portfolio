@@ -66,8 +66,13 @@
         <div class="col-lg-6 col-md-12">
           <div class="card-body">
             <div class="h4 mt-0 title">About</div>
-            <p>Hello! I am Sanjay G,  B.E Graduate.</p>
-            <p>A self-motivated, organized fresher who is a self-starter and capable to use technical skills for the betterment of the organization. I am looking forward to work in a competitive environment that enhances overall learning. </p>
+            <p>Hello! I am Sanjay G,  Software Developer </p>
+            <p>Experienced Software Developer with 3+ years of expertise in developing
+                scalable web applications using ReactJS, Java, Spring Boot and AWS. Skilled
+                in building secure and responsive user interfaces and backend APIs for
+                database operations. Certified in AWS and Azure, with a proven ability to
+                optimize workflows and improve application performance. 
+            </p>
           </div>
         </div>
         <div class="col-lg-6 col-md-12">
